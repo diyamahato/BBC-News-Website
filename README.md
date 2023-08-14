@@ -1,2 +1,2 @@
 # BBC-News-Website
-This is the project i created on how to make bbc website clone
+This is the project to make bbc website clone
